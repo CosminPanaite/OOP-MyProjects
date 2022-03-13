@@ -1,0 +1,3 @@
+C:/Users/Cosmin/CLionProjects/image_extra/cmake-build-debug/CMakeFiles/image_extra.dir
+C:/Users/Cosmin/CLionProjects/image_extra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cosmin/CLionProjects/image_extra/cmake-build-debug/CMakeFiles/rebuild_cache.dir

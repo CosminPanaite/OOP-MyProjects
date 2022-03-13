@@ -1,0 +1,94 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Coach.h
+cstring
+-
+string
+-
+Staff.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Staff.h
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Controller.cpp
+Controller.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Controller.h
+FieldPlayer.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/FieldPlayer.h
+Coach.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Coach.h
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Controller.h
+Repository.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Repository.h
+Staff.h 
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Staff.h
+string
+-
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/FieldPlayer.cpp
+FieldPlayer.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/FieldPlayer.h
+iostream
+-
+string
+-
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/FieldPlayer.h
+Staff.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Staff.h
+string
+-
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Repository.cpp
+Repository.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Repository.h
+vector
+-
+Staff.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Staff.h
+Coach.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Coach.h
+FieldPlayer.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/FieldPlayer.h
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Repository.h
+vector
+-
+Staff.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Staff.h
+string
+-
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Staff.h
+iostream
+-
+fstream
+-
+string
+-
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/TestClasses.cpp
+TestClasses.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/TestClasses.h
+assert.h
+-
+Coach.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Coach.h
+Controller.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Controller.h
+FieldPlayer.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/FieldPlayer.h
+Staff.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Staff.h
+Repository.h
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/Repository.h
+string
+-
+
+D:/OOP Semester Project/OOP SEMESTER PROJECT/OOP SEMESTER PROJECT/TestClasses.h
+

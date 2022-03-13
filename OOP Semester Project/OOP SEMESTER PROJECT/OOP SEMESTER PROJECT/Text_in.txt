@@ -1,0 +1,3 @@
+Coach,Mourinho,10,13,400,Counter Attack,
+Coach,Guardiola,17,23,470,Wing Play,
+Field Player,Drogba,17,25,500,10,

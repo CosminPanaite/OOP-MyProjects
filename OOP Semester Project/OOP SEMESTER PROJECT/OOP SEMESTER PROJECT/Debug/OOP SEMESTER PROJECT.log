@@ -1,0 +1,5 @@
+﻿  FieldPlayer.cpp
+D:\OOP Semester Project\OOP SEMESTER PROJECT\OOP SEMESTER PROJECT\FieldPlayer.cpp(19,1): error C2509: 'toString': member function not declared in 'FieldPlayer'
+D:\OOP Semester Project\OOP SEMESTER PROJECT\OOP SEMESTER PROJECT\FieldPlayer.h(8): message : see declaration of 'FieldPlayer'
+  main.cpp
+  Generating Code...
